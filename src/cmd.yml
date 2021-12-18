@@ -1,0 +1,11 @@
+name: "unic"
+version: 0.1.0
+author: "n01e0 <reoshiseki@gmail.com>"
+about: "unique characters"
+
+args:
+  - read_stdin:
+      help: "read from stdin"
+      short: i
+  - content:
+      help: "string content"
